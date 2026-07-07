@@ -1,11 +1,11 @@
 #Cheatsheet
 
-git init for creating a new repository on our local machine.
-git remote for connecting our local repository to GitHub.
-git branch for renaming our branch.
-git add and git commit for staging and committing our changes.
-git status for checking the status of our files.
-git push for pushing our code to GitHub.
+- git init for creating a new repository on our local machine.
+- git remote for connecting our local repository to GitHub.
+- git branch for renaming our branch.
+- git add and git commit for staging and committing our changes.
+- git status for checking the status of our files.
+- git push for pushing our code to GitHub.
 
 ```
 git init
